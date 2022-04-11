@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+}
+
+.name_of_objects{
+    color:rgb(255, 0, 0) ;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed firebrick;
+}
